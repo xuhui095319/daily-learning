@@ -8,5 +8,8 @@ public class Test {
 
         Map map = new HashMap();
         map.get(null);
+
+
+        //222
     }
 }

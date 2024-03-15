@@ -14,5 +14,6 @@ public class Test {
 
         //123
 
+        map.put(1,"2");
     }
 }
